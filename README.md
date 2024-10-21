@@ -1,8 +1,10 @@
-# React + Vite
+News Generating Website-
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Developed a dynamic news application using React, featuring:
+State Management with Hooks: Leveraged React hooks for efficient state management, ensuring smooth functionality.
 
-Currently, two official plugins are available:
+Category-Based News Retrieval: Integrated the News API to fetch news articles based on user-selected categories.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Responsive Design: Utilized Bootstrap to create a user-friendly and mobile-responsive interface.
+
+Modular Component Structure: Built a customizable Navbar and a dynamic News Board that updates based on user selections, enhancing usability and overall performance.
